@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace user_control.Properties
+namespace example1.Properties
 {
 
 
